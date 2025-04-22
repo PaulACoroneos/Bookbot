@@ -8,6 +8,7 @@ To run bookbot (assuming Python3 is already installed) run the following command
 
 ```python3
 python3 main.py <path_to_book_string>
+```
 
 ## Where to find book text
 
