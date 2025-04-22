@@ -12,4 +12,4 @@ python3 main.py <path_to_book_string>
 
 ## Where to find book text
 
-YOu can check out Project Gutenberg for examples books. A good example is [Pride and Prejudice](https://www.gutenberg.org/cache/epub/1342/pg1342.txt)
+You can check out Project Gutenberg for examples books. A good example is [Pride and Prejudice](https://www.gutenberg.org/cache/epub/1342/pg1342.txt)
