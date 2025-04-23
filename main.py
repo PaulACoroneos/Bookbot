@@ -8,7 +8,6 @@ def get_book_text(filepath):
 def main():
   if len(sys.argv) != 2:
     print('Usage: python3 main.py <path_to_book>')
-    return
 
   local_book_path =sys.argv[1]
 
