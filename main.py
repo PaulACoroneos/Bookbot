@@ -1,5 +1,11 @@
 import sys
-from stats import generate_char_list_ascending, count_number_words, generate_char_dictionary_from_text
+
+from stats import (
+  count_number_words,
+  generate_char_dictionary_from_text,
+  generate_char_list_ascending,
+)
+
 
 def get_book_text(filepath):
   with open(filepath) as f:
