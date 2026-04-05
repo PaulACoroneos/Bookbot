@@ -1,0 +1,19 @@
+[project]
+name = "bookbot"
+version = "0.1.0"
+description = "A python program that analyzes novels and prints a report with statistics based on meta-like information such as word or character count"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "ruff>=0.11.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
